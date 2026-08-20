@@ -13,7 +13,7 @@ function HeroSection() {
           </div>
 
           <p className="mb-3 text-lg font-medium text-blue-400">
-            Hello, I'm Dex
+            Hello, I'm Mark
           </p>
 
           <h1 className="max-w-4xl text-5xl font-black leading-[1.05] tracking-tight sm:text-6xl lg:text-7xl">
